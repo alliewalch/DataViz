@@ -1,0 +1,30 @@
+---
+title: "Homework2"
+author: "Allie Walch"
+date: "September 20, 2016"
+output: pdf_document
+---
+#1. How to Badly Graph or What Not to Do
+This article discusses what graphs should not look like. Artistic design is not the main point of a statistical graph. Graphs should be easy to read with simply colors and designs. Have too much art on a graph takes away from the information that is trying to be shared. There are five main componets that are described as Chartjunk. The five components of chartjunk are hype, color, pseudo 3-D, moire shading, and hype.  
+
+Fonts need to be simple and easy to read. The majority of the time it is best to just use one font all over.    There are a few exceptions where using different fonts that go well together can work to add clarity. But you must be careful.
+
+Shading can bring a lot of attention to an area of a graph. It is important to only shade an area that is the most important or most interesting. Having an area shaded that is not the most important piece of data is a bad idea. The viewer's attention is going to be pulled to that area for no reason. Shading can also not transfer well. In the final print of the graph shading does not always appear the same as you see it.  
+ 
+Pseudo-3D can distort the size of a bar graph or a pie chart. When there is shading on a bar graph it can make it look smaller in relation to the others.  This can hurt the integrity of the data because viewers cannot accurately read the graph.  
+
+Color must be used wisely.  It is very expensive and takes up a lot of storage. This is something that should be used with care, only to add to the graph. 
+Hype has several components. The first is over interpretation. Graphs must be honest and accurate. If an experiment did not work out or the data is not what you wanted it to be, it must be shown the way it came out.  
+
+High density graphs are best. Low density graphs can be okay but it is important to be clear. Ultimately, graphs need to be simple and clear.  Adding excess information will hinder the understanding of the information. The structure of the graph can change the initial observation but when you look into it you can realize that it means something totally different. To make a graph more clear you can add a clear caption to give the content of the graph. It is also important to know your audience. Are you presenting to a group of scientists or to a group of high school students? This can determine how your information should be presented. Overall, simplicity and clarity are the most important part of a graph. 
+
+#2. The Gospel According to Trufte  
+This article all relates to simplification of the data. The entire article is based around the concept of reducing the about of ink used to create the graph. Understanding what you are trying to get across, what is the context, and what is the most effective way to show it. Having a clear idea if what you want to show before you begin can help create a simply and clear graph. By removing grid lines, having a simple frame, and reducing redundancies the image will be more understandable.  
+There are times when you do not even need a graph. A table might be a better way to show the information. Similarly with this, revising and editing is crucial. Experimenting with designs is the most effective way to find the best way to display the data.  
+Another important aspect is data density. Identify the systems or goals of the graph is the main goal of high density. You want to have a wide selection of data and display the main ideas. This leads to higher quality and more reliable data as well. The Shrink Principle is similar to high data density as well.  
+Looking at how the components of the graph interact helps with the delivery. This distinction can help visualize the content in a better way. Once the key components are identified, using color to highlight the main ideas can be useful.  
+Sometimes it's best to use multiple small graphs. For this to be effective, the graphs should all be formatted the same. When using this style simplicity is especially important. Multiple small graphs can show the evolution of something. 
+
+
+
+

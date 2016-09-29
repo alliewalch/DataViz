@@ -1,0 +1,29 @@
+---
+title: "HW3"
+author: "Allie Walch"
+date: "September 27, 2016"
+output: pdf_document
+---
+
+#1 Effectively Communicating Numbers Summary  
+This paper is broken down into six fundamental stages.  The stages are determining your message, determine how the information should be shown, determine the best means to encode the values, determine where to display each variable, determine the best design for the remaining objects, and where the information should be displayed.  
+
+###2 Determine your message and identify the data necessary to commmunicate it  
+Creating a plan should be the first step. Looking at what needs to be shown, who the audience is, and what you want to focus on will all help with displaying data. By having a plan before hand you can most effectively present the data.   
+
+###2.1 Determine if a table, graph, or combination of both is needed to communicate your message
+First you need to look at whether a table or a graph is the best way to display the data. Tables are good for identifying specific data where as a graph is better at showing the trend of the data set. Then, you should look at quantitative versus categorical data. Quantitative data has numbers and an explanation of the numbers. Categorical data is all the labels included in the graph to help explain the data. There are three types of categorical scales. The first is nominal. Nominal is individual items that are in a common group and do not need to be in any particular order. Secondly, the ordinal scale has intrinsic order but do not involve specific quantitative values. Things such as a,b,c or small, medium, and large are good examples of ordinal. Lastly is interval, these items have intrinsic order and represent quantitative values. Interval scales stem from a quantitative scales and moves into a interval scale. These numbers tend to be a scale value.  
+It is important to show the data in relation to other data in order to give it meaning. Ordering the data form greatest to smallest is one way of doing this. By doing this, it is easier for the viewer to process and see what is biggest and what is smallest. Other ways to show data in relation to other data is though distribution relationships, deviation relations, and part-to-whole relationships. 
+
+###2.3 Determine the best means to encode the values  
+The two most effective ways to display data are by line length and 2-D positioning. Color, shape, and size can display data but are not as effective.  
+Points are used to encode values on a graph.  They can be used in scatter plots or in place of bars when the graph does not begin at zero. Lines are used to connect all of the data and show the trend. Bars are an extremely effective way of encoding data. A viewer can look at the end point in relation to other bars as well as the overall length of the bar compared to the others.  
+###2.4 Determine where to display each variable  
+Single categorical variables should be associated with one of the axes. On interval graphs the categorical data should be on the x-axis and the quantitative data on the y-axis. If there are three variables, you must decide what two sets of data you want to compare side by side. In most cases, one graph is sufficient to display the data. 
+
+###2.5 Determine the best design for the remaining objects  
+When using line and points, it may be necessary to narrow the scale.  This allows the data to be more easily processed. If narrowing the scale is needed, it is important that the viewer is aware that this has been done as it may lead to misinterpretation. Bar graphs can never be narrowed or have the base number changed from zero. If this is done, it will cause the data to appear different than it really is.  
+It is important to label the graph as well. Placing a key can help a viewer understand as well as adding tick marks. These types of additions are always better when they are simple. 
+###2.6 Determine if particualr data should be featured above the rest, and if so, how  
+Sometimes there is data that is more important that others. It is important to  know who you are presenting to therefore you can display what is most important to them. Knowing this can help create a better graph. To do this you can add color or use a different point to highlight the information. 
+

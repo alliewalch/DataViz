@@ -1,0 +1,82 @@
+---
+title: "diamonds explore"
+author: "Alyssa Walch"
+date: "September 28, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Reading Data
+```{r}
+mydiamonds=read.csv("diamonds.csv")
+
+```
+
+
+```{r}
+
+```
+
+#Dimensions and names of variables
+
+```{r}
+dim(mydiamonds)
+nrow(mydiamonds)
+ncol(mydiamonds)
+```
+There are 'r nrow(mydiamonds)' rows in this dataset. 
+```{r}
+colnames(mydiamonds)
+mydiamonds=mydiamonds[,2:11]
+
+```
+After knocking off the first column, i am not left with 'r ncol(mydiamonds)' columns. 
+
+#saving my truncated file
+```{r}
+Save(mydiamonds.files -"mydiamonds.Rda") 
+```
+
+#data structure
+```{r}
+str(mydiamonds)
+```
+
+
+#Summary
+```{r}
+summary(mydiamonds)
+summary(mydiaonds[,c(1,3)])
+
+
+```
+
+number of levels of a fractor variable
+
+```{r}
+nlevels(mydiamonds$clarity)
+levels(mydiamonds$clarity)
+```
+
+
+```{r}
+fairdiamonds=mydiamonds [mydiamonds$cut=="Fair",]
+```
+
+
+
+```{r}
+levels(fairdiamonds$cut)
+summary(fairdiamonds$cut)
+
+```
+
+
+#refactoring after a subset using a factor variable
+```{r}
+fairdiamonds$cut=factor(fairdiamonds$cut)
+
+```
+
